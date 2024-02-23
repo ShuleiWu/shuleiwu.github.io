@@ -4,7 +4,7 @@
     <title>2024022101</title>
     <url>/2024/02/21/10/</url>
     <content><![CDATA[<h1 id="块元素"><a href="#块元素" class="headerlink" title="块元素"></a>块元素</h1><h2 id="段落和换行符"><a href="#段落和换行符" class="headerlink" title="段落和换行符"></a>段落和换行符</h2><p>Return</p>
-<p>大多数 markdown 解析器将忽略单行中断，要使其他 markdown 解析器识别您的换行符，可以在行尾留下两个空格，或者插入 `<br/\>`.</p>
+<p>大多数 markdown 解析器将忽略单行中断，要使其他 markdown 解析器识别您的换行符，可以在行尾留下两个空格，或者插入 `<br \>`.</p>
 <h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><blockquote>
 <p># 一级标题</p>
 <p>## 二级标题</p>
@@ -99,7 +99,7 @@
 <p><code>&lt;i@typora.io&gt;</code> 成为 <a href="mailto:i@typora.io">i@typora.io</a>.</p>
 <p>Typora也将自动链接标准URL。例如： www.google.com.</p>
 <h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p>图像与链接类似， 但在链接语法之前需要添加额外的 <code>!</code> 字符。</p>
-<p><img src="C:\Users\Administrator\Desktop\新建文件夹\微信图片_20240221103332.jpg" alt="can't found" style="zoom:25%;" /></p>
+<p><img src="/2024/02/21/10/Users\Administrator\Desktop\新建文件夹\微信图片_20240221103332.jpg" alt="can't found" style="zoom:25%;"></p>
 <blockquote>
 <p>![替代文字](图片路径 ”可选标题“)</p>
 </blockquote>
@@ -131,7 +131,7 @@
   <entry>
     <title>Science-Research-Writing</title>
     <url>/2024/02/22/53/</url>
-    <content><![CDATA[<h1 id="Unit1-How-to-write-an-introduction"><a href="#Unit1-How-to-write-an-introduction" class="headerlink" title="Unit1 How to write an introduction"></a>Unit1 How to write an introduction</h1><h2 id="1-1-Structure"><a href="#1-1-Structure" class="headerlink" title="1.1 Structure"></a>1.1 Structure</h2><p><img src="C:\Users\Administrator\shuleiwu\source\_posts\Science-Research-Writing\image-20240222153325043.png" alt="image-20240222153325043"> </p>
+    <content><![CDATA[<h1 id="Unit1-How-to-write-an-introduction"><a href="#Unit1-How-to-write-an-introduction" class="headerlink" title="Unit1 How to write an introduction"></a>Unit1 How to write an introduction</h1><h2 id="1-1-Structure"><a href="#1-1-Structure" class="headerlink" title="1.1 Structure"></a>1.1 Structure</h2><p><img src="/2024/02/22/53/image-20240222153325043.png" alt="image-20240222153325043"> </p>
 <h2 id="1-2-Grammar-and-writing-skills"><a href="#1-2-Grammar-and-writing-skills" class="headerlink" title="1.2 Grammar and writing skills"></a>1.2 Grammar and writing skills</h2><p>TENSE PAIRS </p>
 <p>SIGNALLING LANGUAGE</p>
 <p>PASSIVE/ACTIVE USE</p>
@@ -390,7 +390,7 @@
 <tbody>
 <tr>
 <td>1</td>
-<td>ESTABLISH THE IMPORTANCE OF YOUR FIELD  <br />PROVIDE BACKGROUND FACTS/INFORMATION (possibly from research) <br />DEFINE THE TERMINOLOGY IN THE TITLE/KEY WORDS<br />PRESENT THE PROBLEM AREA/CURRENT RESEARCH FOCUS</td>
+<td>ESTABLISH THE IMPORTANCE OF YOUR FIELD  <br>PROVIDE BACKGROUND FACTS/INFORMATION (possibly from research) <br>DEFINE THE TERMINOLOGY IN THE TITLE/KEY WORDS<br>PRESENT THE PROBLEM AREA/CURRENT RESEARCH FOCUS</td>
 </tr>
 <tr>
 <td>2</td>
@@ -398,7 +398,7 @@
 </tr>
 <tr>
 <td>3</td>
-<td>LOCATE A GAP IN THE RESEARCH<br />DESCRIBE THE PROBLEM YOU WILL ADDRESS<br />PRESENT A PREDICTION TO BE TESTED</td>
+<td>LOCATE A GAP IN THE RESEARCH<br>DESCRIBE THE PROBLEM YOU WILL ADDRESS<br>PRESENT A PREDICTION TO BE TESTED</td>
 </tr>
 <tr>
 <td>4</td>
@@ -408,7 +408,7 @@
 </table>
 </div>
 <h2 id="1-4-Vocabulary"><a href="#1-4-Vocabulary" class="headerlink" title="1.4 Vocabulary"></a>1.4 Vocabulary</h2><figure class="highlight text"><table><tr><td class="code"><pre><span class="line">&#123;% pdf /pdf/xxx.pdf %&#125;</span><br></pre></td></tr></table></figure>
-<div class="pdfobject-container" data-target="/pdf/vocabulary_intro.pdf" data-height="500px"></div>
+<div class="pdfobject-container" data-target="https://shuleiwu.github.io/file/vocabulary_intro.pdf" data-height="500px"></div>
 ]]></content>
       <tags>
         <tag>writing</tag>
